@@ -3,6 +3,10 @@ Experiments to determine how to build a micro service architecture to teach IOT
 
 
 # Looking at node.js for raspberry pi 
+== https://learn.adafruit.com/node-embedded-development/installing-node-dot-js
+== https://github.com/adafruit/Pi_Node_Example
+== http://thejackalofjavascript.com/getting-started-raspberry-pi-node-js/
+   ---  wget http://node-arm.herokuapp.com/node_latest_armhf.deb
 
 A simple node.js-based GPIO helper for the Raspberry Pi
 Use https://www.npmjs.com/package/pi-gpio and install the software:
